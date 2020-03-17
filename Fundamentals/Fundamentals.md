@@ -14,7 +14,7 @@
   * Keywords should be in lower case
 
 | Code      | Result |
-| :----------- | -----------: |
+| :-----------: | :-----------: |
 |  and = 20      | SyntaxError: Invalid Syntax       |
 | 1abc = 20   | SyntaxError: Invalid Syntax       |
 | _abc = 20 | OK|
