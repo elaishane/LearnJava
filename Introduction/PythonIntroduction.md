@@ -11,5 +11,7 @@
 
 ## Python Features: 
 
-... Unordered sub-list.
+* **Simple and Easy:**
+    * Programs in Python are written in English like statements which implies more clarity and a compact code.
+
   
