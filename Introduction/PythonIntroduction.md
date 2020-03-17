@@ -29,4 +29,8 @@
 * **Huge Library:**
     * Python has huge library for developing programs faster.
 
+### Note:
+
+1. Extension of byte code is **__.pyc__**
+
   
