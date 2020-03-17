@@ -11,5 +11,5 @@
 
 ## Python Features: 
 
-⋅⋅* Unordered sub-list.
+... Unordered sub-list.
   
