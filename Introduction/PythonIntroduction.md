@@ -8,4 +8,8 @@
 ![Logo](Python&#32;Logo.png)
 * Eyes form the colon which is used heavily in the language
 * Python coils around their eggs which suceeds in making snake into a letter P.
+
+## Python Features: 
+
+⋅⋅* Unordered sub-list.
   
