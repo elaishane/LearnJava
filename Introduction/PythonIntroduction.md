@@ -4,5 +4,8 @@
 2. It is developed by **Guido Van Rossom**
 3. It was publicly released in Februaury 1991.
 
+## Logo:
 ![Logo](Python&#32;Logo.png)
-
+..* Eyes form the colon which is used heavily in the language
+..* Python coils around their eggs which suceeds in making snake into a letter P.
+  
