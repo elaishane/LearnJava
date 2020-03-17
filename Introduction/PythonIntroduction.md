@@ -34,6 +34,8 @@
 1. Extension of byte code is **__.pyc__**
 2. While saving the program use any extension except **__.pyc__**
     * Advice: Generally use **__.py__**
+3. To generate a byte code:
+    * python -m py_comile filename.py
 
 ## Steps for Writing and Executing Python  Program:
 
