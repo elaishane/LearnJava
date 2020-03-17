@@ -77,10 +77,10 @@
   Output: 1.23
   '''
   ```
-```python
-a = 4.2e2
-print(a)
-'''
-Output: 420
-'''
-```
+  ```python
+  a = 4.2e2
+  print(a)
+  '''
+  Output: 420
+  '''
+  ```
