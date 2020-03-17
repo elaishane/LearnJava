@@ -33,6 +33,6 @@
 
 1. Extension of byte code is **__.pyc__**
 2. While saving the program use any extension except **__.pyc__**
-    * Generally use **__.py__**
+    * Advice: Generally use **__.py__**
 
   
