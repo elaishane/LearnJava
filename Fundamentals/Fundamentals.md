@@ -19,3 +19,27 @@
 | 1abc = 20   | SyntaxError: Invalid Syntax       |
 | _abc = 20 | OK|
 | _ = 20| OK|
+
+
+### Naming Conventions:
+
+* Package/Module/Class/Variable/Functions Names should start with all lower case letters. Multiple words should be seperated with _.
+* Constants should be in all upper case letters. Multiple words should be seperated with _.
+
+## Data Types:
+* Python has following standard data types:
+  * Numbers -> int,float
+  * String -> str
+  * Boolean -> bool
+  * List -> list
+  * Tuple -> tuple
+  * Set -> set
+  * Dictionary -> dict
+
+## Variables:
+* Variables are programming elements whose value can changes during the execution of the program.
+* type() method would return the class of the object specified.
+
+### Note:
+1. Python does not have char datatype
+2. Python does not support any constant declaration.
