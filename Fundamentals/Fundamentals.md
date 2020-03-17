@@ -51,6 +51,17 @@ Output:
 '''
 ```
 
+```python
+b =True
+print(b)
+print(type(b))
+'''
+Output: 
+True
+<class 'bool'>
+'''
+```
+
 ### Note:
 1. Python does not have char datatype
 2. Python does not support any constant declaration.
