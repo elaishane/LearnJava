@@ -43,3 +43,23 @@
 ### Note:
 1. Python does not have char datatype
 2. Python does not support any constant declaration.
+
+
+### Numbers:
+
+* Number data types store numeric values.
+* Number objects are created when you assign a value to them.
+* Python supports following types:
+  * int (signed integers)
+  * float (floating point real values)
+  * complex(complex numbers)
+
+### Integers:
+
+* Integers are positive and negative whole numbers and have unlimited precision.
+* Integers can be written in Decimal(Base 10)
+* Octal(Base 8),Hexadecimal(Base 16) and Binary(Base 2)
+  
+
+  **Hex**-> start with 0x or 0X followed by 0-9 & A-F/a-f.
+  
