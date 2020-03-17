@@ -47,6 +47,6 @@
   ```
 * Save as __pr.py__
 
-* >python pr.py
+* > python pr.py
 * Output: Hello World
   
