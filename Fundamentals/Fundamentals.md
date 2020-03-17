@@ -77,10 +77,19 @@
   Output: 1.23
   '''
   ```
+
   ```python
-  a = 4.2e2
-  print(a)
+  b = 4.2e2
+  print(b)
   '''
   Output: 420
+  '''
+  ```
+
+  ```python
+  c = 4.2e-2
+  print(c)
+  '''
+  Output: 0.042
   '''
   ```
