@@ -62,4 +62,18 @@
   
 
   **Hex**-> start with 0x or 0X followed by 0-9 & A-F/a-f.
+  **Octal**-> start with 0o or 0O followed by 0-7.
+  **Binary**-> start with 0b or 0B followed by 0-1.
+
+### Floating Point:
+
+* Floating point numbers have a decimal point and/or optional signed exponent e/E
   
+  ```python
+  a = 1.23
+  print(a)
+
+  '''
+  Output: 1.23
+  '''
+  ```
