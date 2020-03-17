@@ -7,6 +7,8 @@
 
 ## Keywords:
     * Python uses keywords to recognize the structure of the program and hence they cannot be used for any other purpose.
-  ---------------------------
-  | and | as | assert | break |
-  | class | continue | def | del |
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
