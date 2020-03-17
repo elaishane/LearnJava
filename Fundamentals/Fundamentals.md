@@ -21,7 +21,7 @@
 | _ = 20| OK|
 
 
-### Naming Conventions:
+## Naming Conventions:
 
 * Package/Module/Class/Variable/Functions Names should start with all lower case letters. Multiple words should be seperated with _.
 * Constants should be in all upper case letters. Multiple words should be seperated with _.
