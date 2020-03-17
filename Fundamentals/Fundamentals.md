@@ -87,6 +87,22 @@ True
   **Octal**-> start with 0o or 0O followed by 0-7.
   **Binary**-> start with 0b or 0B followed by 0-1.
 
+```python
+a = 10
+print(a)
+'''
+Output: 10
+'''
+```
+
+```python
+b = 0o10
+print(b)
+'''
+Output: 8
+'''
+```
+
 ### Floating Point:
 
 * Floating point numbers have a decimal point and/or optional signed exponent e/E
