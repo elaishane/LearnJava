@@ -5,10 +5,10 @@
 * Comments explain __Assumptions__,__Important Decisions__,__Important Details__,__Problems__ you are trying to solve.
 * __Note:__ Python does not have multi-line comment
 
-## Keywords:
-    * Python uses keywords to recognize the structure of the program and hence they cannot be used for any other purpose.
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+## Identifier:
+* Identifier is a name given to programming elements like variables,functions strings,etc.
+* Identifer Rules:
+  * Name can contain any A-Z,a-z,0-9,_(underscore).
+  * Name cannot begin with digits
+  * Names are case-sensitive
+  * Keywords should be in lower case
