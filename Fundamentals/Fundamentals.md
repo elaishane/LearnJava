@@ -45,8 +45,9 @@ a =20
 print(a)
 print(type(a))
 '''
-Output: 20
-        <class 'int'>
+Output: 
+20
+<class 'int'>
 '''
 ```
 
