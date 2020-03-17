@@ -40,6 +40,16 @@
 * Variables are programming elements whose value can changes during the execution of the program.
 * type() method would return the class of the object specified.
 
+```python
+a =20
+print(a)
+print(type(a))
+'''
+Output: 20
+        <class 'int'>
+'''
+```
+
 ### Note:
 1. Python does not have char datatype
 2. Python does not support any constant declaration.
