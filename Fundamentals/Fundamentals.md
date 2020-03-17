@@ -12,3 +12,10 @@
   * Name cannot begin with digits
   * Names are case-sensitive
   * Keywords should be in lower case
+
+| Code      | Result |
+| ----------- | ----------- |
+|  and = 20      | SyntaxError: Invalid Syntax       |
+| 1abc = 20   | SyntaxError: Invalid Syntax       |
+| _abc = 20 | OK|
+| _ = 20| OK|
