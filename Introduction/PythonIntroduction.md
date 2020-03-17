@@ -35,9 +35,18 @@
 2. While saving the program use any extension except **__.pyc__**
     * Advice: Generally use **__.py__**
 
-## Steps for Writing and Executing Python Program:
+## Steps for Writing and Executing Python  Program:
 
 * __Step1:__ Use any editor like Notepad, Notepad++,IDLE, PyCharm for writing a program
 * __Step2:__ Save the program with __.py__ extension.
 * __Step3:__ Open the command prompt/terminal and run the program.
+
+* Python Hello World Program:
+  ```python
+  print("Hello World")
+  ```
+* Save as __pr.py__
+
+* >python pr.py
+* Output: Hello World
   
