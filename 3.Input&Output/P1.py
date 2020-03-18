@@ -1,4 +1,4 @@
-# Write a Python Program to accept id,name,phone,email.address and pincode from user
+# Write a Python Program to accept id,name,phone,email,address and pincode from user
 
 s1 = input('Enter id: ')
 id = int(s1)
